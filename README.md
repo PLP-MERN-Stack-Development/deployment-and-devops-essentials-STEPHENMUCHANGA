@@ -80,4 +80,8 @@ Submitted urls:
 FRONTEND_URL=https://deployment-and-devops-git-main-stephens-projects-53508f27.vercel.app
 REACT_APP_API_URL=https://deployment-and-devops-essentials-z176.onrender.com
 Screenshots of your CI/CD pipeline in action
+## Render
+![Render logs](./screenshots/Backend.PNG)
 
+## Vercel
+![Vercel logs](./screenshots/Frontend.PNG)
