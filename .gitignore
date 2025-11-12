@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
+.env.test
+
+# Build folders
+/frontend/build
+/backend/build
+
+# Logs
+*.log
+
+# IDE / OS files
+.vscode/
+.DS_Store
+Thumbs.db
