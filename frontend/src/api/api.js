@@ -1,5 +1,5 @@
 // Use the API base URL from environment variables
-const BASE = process.env.REACT_APP_API_URL || 'http://localhost:5000/api';
+const BASE = process.env.REACT_APP_API_URL || 'https://deployment-and-devops-essentials-z176.onrender.com/api';
 
 // Generic function to handle responses
 async function handleResponse(response) {
